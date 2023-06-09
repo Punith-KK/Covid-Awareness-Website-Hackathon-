@@ -66,4 +66,4 @@ Dexamethasone is a corticosteroid that can help reduce the length of time on a v
 
 
 # Site is live at :
-https://github.com/Punith-KK/Covid-Awareness-Website-Hackathon-/blob/main/Covid%2019%20Awarness%20Website/index.html
+https://punith-kk.github.io/Covid-Awareness-Website-Hackathon-/Covid%2019%20Awarness%20Website/index.html
