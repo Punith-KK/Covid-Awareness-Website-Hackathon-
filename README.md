@@ -62,3 +62,9 @@ ventilation for patients who are critically ill.
 Dexamethasone is a corticosteroid that can help reduce the length of time on a ventilator and save lives of patients with severe and critical illness.
 
 ![6](https://user-images.githubusercontent.com/118302022/221340881-10d73f8d-ef45-4872-bd72-1a2ed10f8258.png)
+
+
+
+# Site is live at :
+https://punith-kk.github.io/Covid-Awareness-Website-Hackathon-/Covid 19 Awareness Website/index.html
+
