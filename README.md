@@ -1,5 +1,8 @@
 # Covid-Awareness-Website-Hackathon-
 
+### [Live Here](https://punith-kk.github.io/Covid-Awareness-Website-Hackathon-/Covid%2019%20Awarness%20Website/index.html)
+
+
 ![1](https://user-images.githubusercontent.com/118302022/221340733-3ca8f47c-5060-4db2-b69e-89bb0a4b6f01.png)
 
 ![covid-19](https://user-images.githubusercontent.com/118302022/221340767-3b0d28eb-f438-4a9e-a7f3-ba8c31dbd46f.jpg)
@@ -65,5 +68,3 @@ Dexamethasone is a corticosteroid that can help reduce the length of time on a v
 
 
 
-# Site is live at :
-https://punith-kk.github.io/Covid-Awareness-Website-Hackathon-/Covid%2019%20Awarness%20Website/index.html
